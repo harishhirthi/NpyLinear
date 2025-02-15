@@ -20,7 +20,7 @@ pip install -e .
 [MNIST](https://www.kaggle.com/competitions/digit-recognizer/overview)
 
 ## Instructions:
-1. Sample.notebook provided within the repository gives the glimpse of usage of npyLinear.
+1. [Sample.ipynb](Sample.ipynb) provided within the repository gives the glimpse of usage of npyLinear.
 2. It is also provided with model, train and testing script.
 
 ## References:

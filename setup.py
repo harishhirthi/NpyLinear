@@ -6,7 +6,7 @@ setup(
     description="A simple Numpy based Linear Neural Network for classification tasks.",
     package_dir={"": "npyLinear"},
     packages=find_packages(where="npyLinear"),
-    url="",
+    url="https://github.com/harishhirthi/NpyLinear.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "Operating System :: OS Independent",
